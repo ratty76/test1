@@ -53,6 +53,9 @@ namespace Test1
             app.UseCookiePolicy();
 
             app.UseMvc();
+            
+
+            //Add a test comment
         }
     }
 }
